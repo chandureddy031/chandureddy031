@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm ChandraKanth 👋
+AI & ML Engineer | MLOps Enthusiast
 
-<!--
-**chandureddy031/chandureddy031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+Python • Machine Learning • MLflow • DVC • Docker • Scikit-learn • Java
 
-Here are some ideas to get you started:
+## 📂 Projects
+- Patient Readmission Prediction (MLOps)
+- Healthcare AI Chatbot
+- Churn Prediction System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools
+MLflow | DVC | Git | FastAPI | Pandas | NumPy
+
+## 📫 Contact
+LinkedIn:linkedin.com/in/kalava-chandrakanth-reddy-451232389
+Email:kalavachandrakanthreddy@gmail.com
