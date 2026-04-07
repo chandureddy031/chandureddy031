@@ -4,10 +4,6 @@
 <!-- ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=50&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=👋+CHANDRA+KANTH+REDDY;🚀+AI+%26+ML+ENGINEER;🧠+AGENTIC+AI+PIONEER;⚙️+MLOPS+ARCHITECT;🏆+INNOVATION+BUILDER" alt="Header Animation" />
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="800" height="400" alt="AI Animation"/>
 </div>
 
